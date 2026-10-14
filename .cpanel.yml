@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/USUARIO_CPANEL/public_html/
+    export DEPLOYPATH=/home/r0sel1/public_html/lacampina.edu.mx/
     - /bin/cp -R public/. $DEPLOYPATH
